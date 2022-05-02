@@ -1,5 +1,4 @@
-import Data.List
-
+ 
 -- | head 
 -- | head [1,2,3,4,5]
 -- | 1
@@ -39,5 +38,3 @@ import Data.List
 -- | reverse a list 
 -- | reverse [1,2,3,4,5] 
 -- | [5,4,3,2,1] 
-
--- | 
