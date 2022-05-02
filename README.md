@@ -1,46 +1,44 @@
 # haskell-course-graham-hutton
 
-# Step 1. Install GHC 
+## Step 1. Install GHC 
 
 brew install ghc 
 
-=-=-=
-
-# Starting GHC (general; no specific file): 
+## Starting GHC (general; no specific file): 
 
 ghci 
 
-# Exiting GHC (general; no specific file): 
+## Exiting GHC (general; no specific file): 
 
 :q
 ctrl+d
 
-# Starting GHC (specific file): 
+## Starting GHC (specific file): 
 
 ghci <filename> 
 
-# Exiting GCH (specific file): 
+## Exiting GCH (specific file): 
 
 :q
 ctrl+d 
 
-# Reload a script (after a change) 
+## Reload a script (after a change) 
 
 :reload
 
-# Load a new script 
+## Load a new script 
 
 :load <filename> 
 
-# Check type 
+## Check type 
 
 :type <expr> 
 
-# Show all commands 
+## Show all commands 
 
 :? 
 
-# Naming Requirements 
+## Naming Requirements 
 
 Function and argument names must begin with a lower-case letter: 
 
@@ -55,7 +53,7 @@ xs
 ns
 nss (list of list(s)) 
  
-# Layout rule 
+## Layout rule 
 
 In a sequence of definitions, each definition must begin in precisely the same column (spaces / indents) (avoids need for explicit syntax while grouping): 
 
