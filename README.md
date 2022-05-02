@@ -1,4 +1,8 @@
-# haskell-course-graham-hutton
+# haskell-course-graham-hutton 
+
+## Course (link) 
+ 
+http://www.cs.nott.ac.uk/~pszgmh/pgp.html 
 
 ## Step 1. Install GHC 
 
