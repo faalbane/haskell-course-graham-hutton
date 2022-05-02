@@ -2,41 +2,39 @@
 
 ## Step 1. Install GHC 
 
-brew install ghc 
+`brew install ghc`
 
 ## Starting GHC (general; no specific file): 
 
-ghci 
+`ghci`
 
 ## Exiting GHC (general; no specific file): 
 
-:q
-ctrl+d
+`:q`
 
 ## Starting GHC (specific file): 
 
-ghci <filename> 
+`ghci <filename>`
 
 ## Exiting GCH (specific file): 
 
-:q
-ctrl+d 
+`:q`
 
 ## Reload a script (after a change) 
 
-:reload
+`:reload`
 
 ## Load a new script 
 
-:load <filename> 
+`:load <filename>`
 
 ## Check type 
 
-:type <expr> 
+`:type <expr>`
 
 ## Show all commands 
 
-:? 
+`:?`  
 
 ## Naming Requirements 
 
