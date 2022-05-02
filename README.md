@@ -6,7 +6,11 @@ http://www.cs.nott.ac.uk/~pszgmh/pgp.html
 
 ## Step 1. Install GHC 
 
-`brew install ghc`
+https://www.haskell.org/ghc/ 
+
+### Alternatives:  
+
+Homebrew: `brew install ghc`
 
 ## Starting GHC (general; no specific file): 
 
